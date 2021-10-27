@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3653fba2b9facbefc1945e4cc40bef20",
+    "revision": "70a91bf2e34d9cf8f7be417ebc829238",
     "url": "/zinft/index.html"
   },
   {
-    "revision": "f9a494bdff9b6e0ca991",
+    "revision": "c808c3f67ae2d1a297b3",
     "url": "/zinft/static/css/main.323a554d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zinft/static/js/2.75332276.chunk.js"
   },
   {
-    "revision": "f9a494bdff9b6e0ca991",
-    "url": "/zinft/static/js/main.67018700.chunk.js"
+    "revision": "c808c3f67ae2d1a297b3",
+    "url": "/zinft/static/js/main.a8136f21.chunk.js"
   },
   {
     "revision": "c2cb47bd34bede3d2b00",

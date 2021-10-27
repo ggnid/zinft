@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zinft/static/css/main.323a554d.chunk.css",
-    "main.js": "/zinft/static/js/main.67018700.chunk.js",
-    "main.js.map": "/zinft/static/js/main.67018700.chunk.js.map",
+    "main.js": "/zinft/static/js/main.a8136f21.chunk.js",
+    "main.js.map": "/zinft/static/js/main.a8136f21.chunk.js.map",
     "runtime-main.js": "/zinft/static/js/runtime-main.2ec6d8cc.js",
     "runtime-main.js.map": "/zinft/static/js/runtime-main.2ec6d8cc.js.map",
     "static/js/2.75332276.chunk.js": "/zinft/static/js/2.75332276.chunk.js",
     "static/js/2.75332276.chunk.js.map": "/zinft/static/js/2.75332276.chunk.js.map",
     "index.html": "/zinft/index.html",
-    "precache-manifest.f7d10297f62be9b08cd220c0966696e4.js": "/zinft/precache-manifest.f7d10297f62be9b08cd220c0966696e4.js",
+    "precache-manifest.34ab7dd9210b6e0725a829e286543e11.js": "/zinft/precache-manifest.34ab7dd9210b6e0725a829e286543e11.js",
     "service-worker.js": "/zinft/service-worker.js",
     "static/css/main.323a554d.chunk.css.map": "/zinft/static/css/main.323a554d.chunk.css.map",
     "static/media/twitter-logo.svg": "/zinft/static/media/twitter-logo.8cea1391.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.2ec6d8cc.js",
     "static/js/2.75332276.chunk.js",
     "static/css/main.323a554d.chunk.css",
-    "static/js/main.67018700.chunk.js"
+    "static/js/main.a8136f21.chunk.js"
   ]
 }

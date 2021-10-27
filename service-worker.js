@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zinft/precache-manifest.f7d10297f62be9b08cd220c0966696e4.js"
+  "/zinft/precache-manifest.34ab7dd9210b6e0725a829e286543e11.js"
 );
 
 self.addEventListener('message', (event) => {
