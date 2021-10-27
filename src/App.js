@@ -10,7 +10,7 @@ const OPENSEA_LINK = '';
 const TOTAL_MINT_COUNT = 50;
 
 // I moved the contract address to the top for easy access.
-const CONTRACT_ADDRESS = "0xEafA904B2540F88eC9e9d2562B0De551394fEf96";
+const CONTRACT_ADDRESS = "0xA9fC66ECBf59f41d278AFA0b7f4c7dd043194e2C";
 
 const App = () => {
 
@@ -130,7 +130,7 @@ const App = () => {
   );
 
   const renderMintUI = () => (
-    <button onClick={askContractToMintNft()} className="cta-button connect-wallet-button">
+    <button onClick={askContractToMintNft} className="cta-button connect-wallet-button">
       Mint NFT
     </button>
   )
